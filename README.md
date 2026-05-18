@@ -1,4 +1,5 @@
-# Learn
+# Solved-tasks-from-The-Rust-Programming-Language-book
+
 
 This is my solution to exercises from "The Rust Programming Language" book.
 
