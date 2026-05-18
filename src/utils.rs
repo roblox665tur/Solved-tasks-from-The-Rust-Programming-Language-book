@@ -81,7 +81,7 @@ pub fn parser(input: &str) -> Option<ParsedOutput> {
 }
 
 pub fn clear_screen() {
-    println!("\x1b[2J\x1b[H");
+    print!("\x1b[2J\x1b[H");
 }
 
 pub fn stay_screen() {
