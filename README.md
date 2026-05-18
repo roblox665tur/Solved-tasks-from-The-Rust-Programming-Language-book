@@ -9,7 +9,6 @@ Here I implement examples and exercises from the popular Rust programming book t
 ## Structure
 
 - `src/` — solution source code
-- `Cargo.toml` — project configuration
 
 ## Goals
 
